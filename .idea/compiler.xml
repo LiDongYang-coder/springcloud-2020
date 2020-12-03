@@ -17,6 +17,7 @@
         <module name="cloud-consumerzk-order-80" />
         <module name="cloud-consumer-order-80" />
         <module name="cloud-consumer-hystrix-dashboard-9001" />
+        <module name="cloud-conifg-client-3355" />
         <module name="cloud-consumer-hystrix-feign-order-80" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-consumerconsul-order-80" />
