@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/LiDongYang-coder/springcloud_config.git
+          uri: https://github.com/XXXXXXXXXX/springcloud_config.git
           search-paths:
              - springcloud_config
           skip-ssl-validation: true
